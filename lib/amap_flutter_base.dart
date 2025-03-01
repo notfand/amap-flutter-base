@@ -1,13 +1,9 @@
 library amap_flutter_base;
 
-import 'dart:ui' show Offset;
-import 'package:flutter/material.dart';
-import 'dart:math';
-
-part 'src/amap_api_key.dart';
-part 'src/amap_tools.dart';
-part 'src/callbacks.dart';
-part 'src/location.dart';
-part 'src/poi.dart';
-part 'src/amap_utils.dart';
-part 'src/amap_privacy_statement.dart';
+export 'src/amap_api_key.dart';
+export 'src/amap_tools.dart';
+export 'src/callbacks.dart';
+export 'src/location.dart';
+export 'src/poi.dart';
+export 'src/amap_utils.dart';
+export 'src/amap_privacy_statement.dart';

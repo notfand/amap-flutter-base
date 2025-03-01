@@ -1,4 +1,8 @@
-part of amap_flutter_map;
+import 'dart:math';
+
+import 'package:flutter/material.dart';
+
+import 'location.dart';
 
 const double EARTHRADIUS = 6378137.0;
 

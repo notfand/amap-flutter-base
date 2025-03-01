@@ -1,4 +1,4 @@
-part of amap_flutter_map;
+import 'package:flutter/material.dart';
 
 class AMapUtil {
   static final AMapUtil _instance = AMapUtil._();
