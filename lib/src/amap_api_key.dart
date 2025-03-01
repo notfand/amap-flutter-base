@@ -1,4 +1,4 @@
-
+part of amap_flutter_map;
 ///高德开放平台api key配置
 ///
 ///申请key请到高德开放平台官网:https://lbs.amap.com/

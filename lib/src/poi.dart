@@ -1,4 +1,4 @@
-import 'location.dart';
+part of amap_flutter_map;
 
 ///poi
 class AMapPoi {

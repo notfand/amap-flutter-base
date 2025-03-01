@@ -1,4 +1,4 @@
-import 'package:flutter/material.dart';
+part of amap_flutter_map;
 
 ///高德开放平台用户隐私声明配置
 ///

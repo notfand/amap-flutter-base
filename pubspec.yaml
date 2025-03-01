@@ -1,6 +1,6 @@
 name: amap_flutter_base
 description: "amap_flutter_base"
-version: 0.0.2
+version: 0.0.3
 homepage:
 
 environment:
@@ -10,7 +10,6 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  plugin_platform_interface: ^2.0.2
 
 dev_dependencies:
   flutter_test:

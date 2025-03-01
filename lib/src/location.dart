@@ -1,4 +1,4 @@
-import 'package:flutter/material.dart';
+part of amap_flutter_map;
 
 ///定位信息类
 ///
